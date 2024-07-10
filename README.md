@@ -31,9 +31,9 @@ This project involves developing a machine learning model to predict the risk of
 - Summary of the model's performance.
 
 ## Files
-- `data/`: Contains the dataset files.
-- `Main.py/`: Jupyter notebooks with the data analysis and model development.
-- `CreditRisks/`: Python scripts for data preprocessing and model training.
+- `archive/`: Contains the dataset files.
+- `Main.py/`: Data analysis and model evaluation.
+- `CreditRisks.py/`: Python scripts for data preprocessing and model training.
 - `results/`: Output files and results.
 
 ## How to Run
